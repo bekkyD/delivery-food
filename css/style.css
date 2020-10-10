@@ -117,7 +117,7 @@ body {
   text-decoration: none;
 }
 .card-image {
-  width: 384px;
+  width: 300px;
   height: 250px;
   object-fit: cover;
 }
